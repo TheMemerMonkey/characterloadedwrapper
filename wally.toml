@@ -1,0 +1,8 @@
+[package]
+name = "thememermonkey/characterloadedwrapper"
+version = "0.3.1"
+registry = "https://github.com/UpliftGames/wally-index"
+realm = "shared"
+repository = "https://github.com/thememermonkey/characterloadedwrapper"
+
+[dependencies]
